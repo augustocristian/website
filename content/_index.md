@@ -62,27 +62,42 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Assistant Professor
+          company: University of Oviedo
+          company_url: 'www.uniovi.es'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Gijón, Asturias
+          date_start: '2019-01-20'
+          date_end: 'Currently'
+          description: |2-
+              Teaching Subjects:
+
+              * System Administration
+              * Information Systems
+              * Software Process Engineering 
+              * Operating Systems
+              * Final Degree Projects
+              * Software Architecture
+              * Databases
+              * Computing Basics
+
+        - title: Researcher
+          company: Software Engineering Research Group
+          company_url: 'www.giis.uniovi.es'
+          company_logo: org-giis
+          location: Gijón, Asturias
+          date_start: '2018-11-08'
+          date_end: 'Currently'
+          description: |2-
+
+        - title: Collaborator Professor 
+          company: International University of Valencia
+          company_url: 'https://www.universidadviu.com/'
+          company_logo: org-viu
+          location: Valencia, Spain
+          date_start: '2019-01-01'
+          date_end: '2021-08-31'
+          description: Co-director of several Msc. Degree Projects and imparting seminars about Privacy Preserving Data Publishing.
     design:
       columns: '2'
   - block: accomplishments
