@@ -89,6 +89,7 @@ sections:
           date_start: '2018-11-08'
           date_end: '2024-08-31'
           description: |2-
+              Actively involved in research endeavors focusing on Software Engineering and Testing
 
         - title: Collaborator Professor 
           company: International University of Valencia
@@ -97,7 +98,8 @@ sections:
           location: Valencia, Spain
           date_start: '2019-01-01'
           date_end: '2021-08-31'
-          description: Co-director of several Msc. Degree Projects and imparting seminars about Privacy Preserving Data Publishing.
+          description: |2-
+              Co-director of several Msc. Degree Projects and imparting seminars about Privacy Preserving Data Publishing.
     design:
       columns: '2'
   - block: accomplishments
