@@ -68,7 +68,7 @@ sections:
           company_logo: org-x
           location: Gijón, Asturias
           date_start: '2019-01-20'
-          date_end: {{ .PublishDate }}
+          date_end: '2024-08-31'
           description: |2-
               Teaching Subjects:
 
@@ -87,7 +87,7 @@ sections:
           company_logo: org-giis
           location: Gijón, Asturias
           date_start: '2018-11-08'
-          date_end: {{ .PublishDate }}
+          date_end: '2024-08-31'
           description: |2-
 
         - title: Collaborator Professor 

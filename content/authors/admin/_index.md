@@ -34,14 +34,14 @@ interests:
   - Software Engineering
   - Software Testing
   - Big Data
-  - Privacy-preserving data publishig
+  - Privacy-preserving data publishing
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science
       institution: University of Oviedo
-      year: Currently
+      year: 2025
     - course: MSc. Degree in Computer Engineering 
       institution: University of Oviedo
       year: 2020
