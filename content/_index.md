@@ -62,10 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Visiting Researcher
+          company: ISTI-CNR
+          company_url: 'https://www.isti.cnr.it/en/'
+          company_logo: org-isti
+          location: Pisa, Italy
+          date_start: '2023-05-24'
+          date_end: '2024-08-24'
+          description: |2-
+              Research Internship with Antonia Bertolino in  the Software Engineering & Dependable Computing  Research Lab.
+              Research and development of a Cloud Cost Model to select a cost-efficient Cloud Infrastructure for E2E testing.
         - title: Assistant Professor
           company: University of Oviedo
           company_url: 'www.uniovi.es'
-          company_logo: org-x
+          company_logo: org-uniovi
           location: Gijón, Asturias
           date_start: '2019-01-20'
           date_end: '2024-08-31'
