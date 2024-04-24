@@ -39,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'NOT AVAILABLE YET'
+url_pdf: 'https://hdl.handle.net/10651/72390'
 url_code: ''
 url_dataset: ''
 url_poster: ''

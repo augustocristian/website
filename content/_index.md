@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: Augusto Website
       image:
         filename: hero-academic.png
       cta:
@@ -68,7 +68,17 @@ sections:
           company_logo: org-isti
           location: Pisa, Italy
           date_start: '2023-05-24'
-          date_end: '2024-08-24'
+          date_end: ''
+          description: |2-
+              Research Internship with Antonia Bertolino in  the Software Engineering & Dependable Computing  Research Lab.
+              Research and development of a Cloud Cost Model to select a cost-efficient Cloud Infrastructure for E2E testing. 
+        - title: Visiting Researcher
+          company: ISTI-CNR
+          company_url: 'https://www.isti.cnr.it/en/'
+          company_logo: org-isti
+          location: Pisa, Italy
+          date_start: '2023-05-24'
+          date_end: '2023-08-24'
           description: |2-
               Research Internship with Antonia Bertolino in  the Software Engineering & Dependable Computing  Research Lab.
               Research and development of a Cloud Cost Model to select a cost-efficient Cloud Infrastructure for E2E testing.
@@ -78,18 +88,18 @@ sections:
           company_logo: org-uniovi
           location: Gijón, Asturias
           date_start: '2019-01-20'
-          date_end: '2024-08-31'
+          date_end: ''
           description: |2-
-              Teaching Subjects:
-
+              Teaching Subjects in several Engineering degrees:
+              * Computing Basics
+              * Databases
+              * Operating Systems
               * System Administration
               * Information Systems
               * Software Process Engineering 
-              * Operating Systems
-              * Final Degree Projects
               * Software Architecture
-              * Databases
-              * Computing Basics
+              * Final Degree Projects
+              * Social, legal, and ethical issues in Computer Science
 
         - title: Researcher
           company: Software Engineering Research Group
@@ -97,7 +107,7 @@ sections:
           company_logo: org-giis
           location: Gijón, Asturias
           date_start: '2018-11-08'
-          date_end: '2024-08-31'
+          date_end: ''
           description: |2-
               Actively involved in research endeavors focusing on Software Engineering and Testing
 
@@ -125,33 +135,106 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ""
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-09-29'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: org-nvidia
+          organization: Nvidia
+          organization_url: https://azure.microsoft.com/en-us
+          title: Deep Learning Fundamentals
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: "https://www.credly.com/badges/169376f3-85bd-4c34-b0b2-de09a7a4f976?source=linked_in_profile"
+          date_end: ''
+          date_start: '2022-01-18'
+          description: 'Certified by Certiport'
+          icon: org-microsoft
+          organization: Microsoft
+          organization_url: https://azure.microsoft.com/en-us
+          title: Azure DP-900 
+          url: ''
+        - certificate_url: "https://www.credly.com/badges/543c9244-5e58-43c8-80f7-75e78349f936?source=linked_in_profile"
+          date_end: ''
+          date_start: '2022-01-21'
+          description: 'Certified by Certiport'
+          icon: org-microsoft
+          organization: Microsoft
+          organization_url: https://azure.microsoft.com/en-us
+          title: Azure SC-900
+          url: ''
+        - certificate_url: "https://www.credly.com/badges/7cc83dff-338b-4de9-a41c-a9c40b40a438?source=linked_in_profile"
+          date_end: ''
+          date_start: '2022-01-21'
+          description: 'Certified by Certiport'
+          icon: org-microsoft
+          organization: Microsoft
+          organization_url: https://azure.microsoft.com/en-us
+          title: Azure PL-900
+          url: ''
+        - certificate_url: "https://www.credly.com/badges/f009557b-5cac-4090-8030-b4b88a4dc988?source=linked_in_profile"
+          date_end: ''
+          date_start: '2021-07-07'
+          description: 'Certified by Certiport'
+          icon: org-microsoft
+          organization: Microsoft
+          organization_url: https://azure.microsoft.com/en-us
+          title: Azure AI-900
+          url: ''
+        - certificate_url: "https://www.credly.com/badges/c6e86525-186d-4b17-b99d-1b6b9dcc7fbd?source=linked_in_profile"
+          date_end: ''
+          date_start: '2021-06-25'
+          description: 'Certified by Certiport'
+          icon: org-microsoft
+          organization: Microsoft
+          organization_url: https://azure.microsoft.com/en-us
+          title: Azure AZ-900
+          url: ''
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          description: 'Credencial Number: 20-CTFL-188015-09'
+          icon: org-isqi
+          organization: ISQI
+          organization_url: https://isqi.org/en/
+          title: ISTQB Certified Tester
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-04-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          icon: org-cambridge
+          organization: Cambridge English Language Assessment
+          organization_url: https://www.cambridgeenglish.org/exams-and-tests/first/
+          title: First Certificate in English
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: ''
+          date_end: '2020-12-16'
+          date_start: '2020-12-14'
+          description: ''
+          icon: org-nexoqa
+          organization: NexoQA
+          organization_url: https://www.nexoqa.com/es-training.html
+          title: 'ISTQB Fundamentals Course'
+          url: 'https://www.nexoqa.com/es-training.html'
+        - certificate_url: ''
+          date_end: '2020-12-03'
+          date_start: '2020-11-30'
+          description: ''
+          icon: org-nexoqa
+          organization: NexoQA
+          organization_url: https://www.nexoqa.com/es-training.html
+          title: 'Test Process and QA Team management'
+          url: 'https://www.nexoqa.com/es-training.html'
+        - certificate_url: ''
+          date_end: '2020-12-18'
+          date_start: '2020-12-10'
+          description: ''
+          icon: org-nexoqa
+          organization: NexoQA
+          organization_url: https://www.nexoqa.com/es-training.html
+          title: 'Advanced Agile Testing + DevTestOps'
+          url: 'https://www.nexoqa.com/es-training.html'
+
     design:
       columns: '2'
   - block: collection
@@ -262,35 +345,39 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please! don't hesitate in contact me
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: augustocristian@uniovi.es
+      phone: +34 985 182 679
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Calle de Luís Ortiz Berrocal - Edificio Polivalente
+        city: Gijón
+        region: Asturias
+        postcode: '33203'
+        country: Spain
+        country_code: SP
+      directions: Enter the Edificio Polivalente, proceed to Module 6, and ascend the stairs to the second floor to reach department 06
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
+        - 'Monday to Friday 10:00 to 19:00'
+      # Choose a map provider in `params.yaml` to show a map from these coordinates 
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '43.524417'
+        longitude: '-5.635028'  
+        #info about icons: https://github.com/hugo-mods/icons
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          link: 'https://twitter.com/augustOcristian'
+        - icon: researchgate
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+          name: Follow me!
+          link: 'https://www.researchgate.net/profile/Cristian-Augusto-Alonso'
+        - icon: google
+          icon_pack: fab
+          name: Google Scholar
+          link: 'https://scholar.google.com/citations?hl=en&user=oIJLk7MAAAAJ'
         - icon: video
           icon_pack: fas
           name: Zoom Me
