@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: "Participate as the Online Chair in the organizing committee."
 abstract: 'QUATIC is a forum for disseminating advanced methods, techniques and tools for supporting quality approaches to ICT engineering and management. Practitioners and researchers are encouraged to exchange ideas and approaches on how to adopt a quality culture in ICT process and product improvement and to provide practical studies in varying contexts. Information on previous editions can be found here.'
 
 # Talk start and end times.

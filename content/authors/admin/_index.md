@@ -34,7 +34,7 @@ interests:
   - Software Engineering
   - Software Testing
   - Big Data
-  - Privacy-preserving data publishing
+  - Privacy-Preserving Data Publishing (PPDP)
 
 # Education to show in About widget
 education:
