@@ -1,5 +1,5 @@
 ---
-title: 'Efficient test execution in End to End testing : Resource optimization in End to End testing through a smart resource characterization and orchestration'
+title: 'Efficient test execution in End to End testing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -32,7 +32,7 @@ sections:
           date_end: ''
           description: |2-
               Research Internship with Antonia Bertolino in  the Software Engineering & Dependable Computing  Research Lab.
-              Research and development of a Cloud Cost Model to select a cost-efficient Cloud Infrastructure for E2E testing. 
+              Continue with the efficient E2E test suite execution research line. 
         - title: Visiting Researcher
           company: ISTI-CNR
           company_url: 'https://www.isti.cnr.it/en/'
@@ -41,8 +41,7 @@ sections:
           date_start: '2023-05-24'
           date_end: '2023-08-24'
           description: |2-
-              Research Internship with Antonia Bertolino in  the Software Engineering & Dependable Computing  Research Lab.
-              Research and development of a Cloud Cost Model to select a cost-efficient Cloud Infrastructure for E2E testing.
+              Research Internship with Antonia Bertolino in the Software Engineering & Dependable Computing Research Lab. Researching and developing a Cloud Cost Model to select a cost-efficient Cloud Infrastructure for End-to-End testing
         - title: Assistant Professor
           company: University of Oviedo
           company_url: 'www.uniovi.es'
