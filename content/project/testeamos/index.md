@@ -1,10 +1,12 @@
 ---
-title: TestBus
-summary: PID2019-105455GB-C32
+title: TestEAMoS
+summary: TIN2016-76956-C3-1-R
 tags:
   - Software Engineering
   - Validation and Verification
-date: '2020-01-06T00:00:00Z'
+  - Big Data
+date: '2016-09-27T00:00:00Z'
+date_end: '2016-09-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,22 +32,22 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-**Project Title:** Pruebas de Software más allá de las unitarias y de SQL (TestBus)
+**Project Title:** Pruebas para aplicaciones con tecnologías emergentes: Procesamiento masivo de datos y bases de datos NoSQL (TestEAMoS)
 
 
-**Funding administration:** Plan Nacional de I+D+i (PID2019-105455GB-C32)
+**Funding administration:** Plan Nacional de I+D+I (TIN2016-76956-C3-1-R)
 
 
 **Partners:** Universidad de Oviedo	
 
 
-**Monetary amount:** 120.516,00 €
+**Monetary amount:** 144,958.00 €
 
 
-**Duration:** from 01/06/2020 to 31/05/2023 
+**Duration:** from 27/09/2016 to 31/12/2020
 
 
-**Main Researchers:** PhD. Javier Tuya and PhD. Claudio de la Riva	
+**Main Researchers:** PhD. Javier Tuya	
 
 
 **Role:** Work Team Member

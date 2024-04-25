@@ -1,10 +1,10 @@
 ---
-title: TestBus
-summary: PID2019-105455GB-C32
+title: EQUAVEL
+summary: PID2022-137646OB-C32
 tags:
   - Software Engineering
   - Validation and Verification
-date: '2020-01-06T00:00:00Z'
+date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,19 +30,19 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-**Project Title:** Pruebas de Software más allá de las unitarias y de SQL (TestBus)
+**Project Title:**: Aseguramiento temprano de la calidad en entornos novedosos de producción de software (EQUAVEL) 
 
 
-**Funding administration:** Plan Nacional de I+D+i (PID2019-105455GB-C32)
+**Funding administration:** Ministry of Science and Innovation (PID2022-137646OB-C32)
 
 
 **Partners:** Universidad de Oviedo	
 
 
-**Monetary amount:** 120.516,00 €
+**Monetary amount:** 179,250.00€
 
 
-**Duration:** from 01/06/2020 to 31/05/2023 
+**Duration:** from 01/09/2023 to 31/08/2026 
 
 
 **Main Researchers:** PhD. Javier Tuya and PhD. Claudio de la Riva	

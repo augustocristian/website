@@ -22,8 +22,8 @@ This project is based on the [Hugo Academic Template](https://github.com/HugoBlo
 After completing these steps, you can access the website locally at http://localhost:port/. The port number depends on whether you have other services running locally. Upon running `hugo server`, you'll be able to see the port where the site is being displayed.
 
 # 3. Customization
-
-
+## Icon Packages
+For comprehensive information about standard icons, please refer to the [official website](https://github.com/hugo-mods/icons). Additionally, for advanced functionality and other icon sets, consider installing additional packages.
 
 
 
