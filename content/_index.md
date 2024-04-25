@@ -50,7 +50,7 @@ sections:
           date_start: '2019-01-20'
           date_end: ''
           description: |2-
-              Teaching Subjects in several Engineering degrees:
+              Teaching Subjects in several degrees:
               * Computing Basics
               * Databases
               * Operating Systems
@@ -60,6 +60,7 @@ sections:
               * Software Architecture
               * Final Degree Projects
               * Social, legal, and ethical issues in Computer Science
+              * Administrative Information Management
 
         - title: Researcher
           company: Software Engineering Research Group
@@ -158,51 +159,51 @@ sections:
           organization_url: https://azure.microsoft.com/en-us
           title: Deep Learning Fundamentals
           url: ''
-        - certificate_url: "https://www.credly.com/badges/169376f3-85bd-4c34-b0b2-de09a7a4f976?source=linked_in_profile"
+        - certificate_url: ""
           date_end: ''
           date_start: '2022-01-18'
-          description: 'Certified by Certiport'
+          description: ''
           icon: org-microsoft
           organization: Microsoft
           organization_url: https://azure.microsoft.com/en-us
           title: Azure DP-900 
-          url: ''
-        - certificate_url: "https://www.credly.com/badges/543c9244-5e58-43c8-80f7-75e78349f936?source=linked_in_profile"
+          url: 'https://www.credly.com/badges/169376f3-85bd-4c34-b0b2-de09a7a4f976?source=linked_in_profile'
+        - certificate_url: ""
           date_end: ''
           date_start: '2022-01-21'
-          description: 'Certified by Certiport'
+          description: ''
           icon: org-microsoft
           organization: Microsoft
           organization_url: https://azure.microsoft.com/en-us
           title: Azure SC-900
-          url: ''
-        - certificate_url: "https://www.credly.com/badges/7cc83dff-338b-4de9-a41c-a9c40b40a438?source=linked_in_profile"
+          url: 'https://www.credly.com/badges/543c9244-5e58-43c8-80f7-75e78349f936?source=linked_in_profile'
+        - certificate_url: ""
           date_end: ''
           date_start: '2022-01-21'
-          description: 'Certified by Certiport'
+          description: ''
           icon: org-microsoft
           organization: Microsoft
           organization_url: https://azure.microsoft.com/en-us
           title: Azure PL-900
-          url: ''
-        - certificate_url: "https://www.credly.com/badges/f009557b-5cac-4090-8030-b4b88a4dc988?source=linked_in_profile"
+          url: 'https://www.credly.com/badges/7cc83dff-338b-4de9-a41c-a9c40b40a438?source=linked_in_profile'
+        - certificate_url: ""
           date_end: ''
           date_start: '2021-07-07'
-          description: 'Certified by Certiport'
+          description: ''
           icon: org-microsoft
           organization: Microsoft
           organization_url: https://azure.microsoft.com/en-us
           title: Azure AI-900
-          url: ''
-        - certificate_url: "https://www.credly.com/badges/c6e86525-186d-4b17-b99d-1b6b9dcc7fbd?source=linked_in_profile"
+          url: 'https://www.credly.com/badges/f009557b-5cac-4090-8030-b4b88a4dc988?source=linked_in_profile'
+        - certificate_url: ""
           date_end: ''
           date_start: '2021-06-25'
-          description: 'Certified by Certiport'
+          description: ''
           icon: org-microsoft
           organization: Microsoft
           organization_url: https://azure.microsoft.com/en-us
           title: Azure AZ-900
-          url: ''
+          url: 'https://www.credly.com/badges/c6e86525-186d-4b17-b99d-1b6b9dcc7fbd?source=linked_in_profile'
         - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
@@ -292,10 +293,6 @@ sections:
           icon_pack: fab
           name: Google Scholar
           link: 'https://scholar.google.com/citations?hl=en&user=oIJLk7MAAAAJ'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
