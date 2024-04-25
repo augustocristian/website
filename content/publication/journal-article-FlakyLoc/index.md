@@ -24,13 +24,13 @@ publishDate: "2020-03-02T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Web Engineering, Q3*(1)"
+publication: "*Journal of Web Engineering, Q3* (J1)"
 publication_short: ""
 
 abstract: Web application testing is a great challenge due to the management of complex asynchronous communications, the concurrency between the clients-servers, and the heterogeneity of resources employed. It is difficult to ensure that a test case is re-running in the same conditions because it can be executed in undesirable ways according to several environmental factors that are not easy to fine-grain control such as network bottlenecks, memory issues or screen resolution. These environmental factors can cause flakiness, which occurs when the same test case sometimes obtains one test outcome and other times another outcome in the same application due to the execution of environmental factors. The tester usually stops relying on flaky test cases because their outcome varies during the re-executions. To fix and reduce the flakiness it is very important to locate and understand which environmental factors cause the flakiness. This paper is focused on the localization of the root cause of flakiness in web applications based on the characterization of the different environmental factors that are not controlled during testing. The root cause of flakiness is located by means of spectrum-based localization techniques that analyse the test execution under different combinations of the environmental factors that can trigger the flakiness. This technique is evaluated with an educational web platform called FullTeaching. As a result, our technique was able to locate automatically the root cause of flakiness and provide enough information to both understand it and fix it.
 
 # Summary. An optional shortened abstract.
-summary: The paper addresses the challenge of flakiness in web application testing, caused by uncontrollable environmental factors. It proposes a spectrum-based localization technique to automatically identify and understand these factors influence on test outcomes. The approach is evaluated on the FullTeaching platform, successfully pinpointing and providing insights to resolve flakiness issues.
+summary: 
 
 tags:
 - Software testing and debugging
@@ -44,8 +44,8 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'http://hdl.handle.net/10651/57031'
-url_code: ''
-url_dataset: ''
+url_code: ""
+url_dataset: ""
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -72,17 +72,9 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 
 ---
 
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

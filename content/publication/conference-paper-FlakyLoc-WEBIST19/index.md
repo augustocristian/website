@@ -29,18 +29,18 @@ publishDate: '2019-09-18T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *WEBIST 2019 - Proceedings of the 15th International Conference on Web Information Systems and Technologies*
-publication_short: In *WEBIST19*
+publication: In *WEBIST 2019 - Proceedings of the 15th International Conference on Web Information Systems and Technologies* 
+publication_short: In *WEBIST19* C2
 
 abstract: Testing web applications is a challenging practice because it involves managing asynchronous requests between clients and servers, the integration of heterogeneous technologies, and concurrent accesses to the resources. Therefore, rerunning the test cases of these applications under the same conditions is difficult as one test case can be executed in many different ways according to several environmental factors like memory, screen size or network. Moreover, some of these test cases could be flaky, i.e., due to environmental factors the test outcome can vary even though the application did not change. Understanding which factors are the root cause of flakiness is very important for web developers to both prevent and fix flakiness. This paper introduces a technique to locate the root causes of flakiness based on a characterization of the different environmental factors that are not controlled during the testing of web applications. The root cause of flakiness is located by a spectrum-based localization technique that analyses the execution of the same flaky test under different environmental factors that can trigger the flakiness. The technique is illustrated on an educational web platform named FullTeaching.
 
 # Summary. An optional shortened abstract.
-summary: The paper proposes a technique to pinpoint the root causes of flakiness by analyzing these factors through a spectrum-based localization approach. Demonstrated on FullTeaching, an educational web platform, this method aids developers in mitigating flakiness and ensuring more reliable web application testing.
+summary: 
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -58,10 +58,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -76,15 +76,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

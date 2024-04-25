@@ -2,11 +2,8 @@
 title: TestEAMoS
 summary: TIN2016-76956-C3-1-R
 tags:
-  - Software Engineering
-  - Validation and Verification
-  - Big Data
+  - closed
 date: '2016-09-27T00:00:00Z'
-date_end: '2016-09-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 ---
 **Project Title:** Pruebas para aplicaciones con tecnologías emergentes: Procesamiento masivo de datos y bases de datos NoSQL (TestEAMoS)
 

@@ -27,7 +27,7 @@ publication_short: In *ISSREW 2023*
 abstract: End-to-end (E2E) testing is costly because of the complex and expensive resources that are required during the test execution coupled with the long execution times required. This becomes even more challenging when E2E test suites are integrated into a continuous integration (CI/CD) environment, where they are executed with each repository change. Migrating E2E test suite execution to the Cloud is an acknowledged trend to achieve a better cost. However, this also introduces new challenges in addition to those faced on-premises, such as selecting the most suitable services from the wide range offered by Cloud Providers, which is even more difficult considering how the test resources use the Cloud infrastructure. This thesis aims to achieve an efficient execution of the E2E test suites, reducing the number of unnecessary test resource redeployments, and the execution time, and improving the efficiency of selecting the Cloud infrastructure that best aligns with the testing objectives. We present an orchestration approach that aims to enable resource sharing and avoid unnecessary redeployments. This process involves phases like the characterization of the test resources required by the test cases and a grouping of the test cases with compatible resource usage and its scheduling in sequential-parallel to reduce redeployments-time. The orchestration approach has evolved to execute this orchestrated test suite in the Cloud, introducing a model of the E2E test suite execution in the Cloud, which allows us to represent both the test and the Cloud configuration. Using the model, we estimate and compare different Cloud infrastructures in terms of overall cost (billed by the Cloud Provider), but also the cost invested in testing and unused infrastructure (overprovisioning) to select the infrastructure best aligned with the testing objectives.
 
 # Summary. An optional shortened abstract.
-summary: E2E testing is costly and time-consuming, especially within CI/CD environments. Migration to the Cloud offers potential cost savings but presents challenges in resource management. This thesis proposes an orchestration approach to optimize E2E testing in the Cloud, reducing redeployments and improving resource efficiency. A model is introduced to compare Cloud infrastructures based on cost and alignment with testing objectives.
+summary: 
 
 tags: []
 
@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -68,15 +68,6 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

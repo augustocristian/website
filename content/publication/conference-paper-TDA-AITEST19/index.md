@@ -27,13 +27,13 @@ publishDate: '2019-05-20T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings - 2019 IEEE International Conference on Artificial Intelligence Testing, AITest 2019*
-publication_short: In *AITEST19*
+publication: In *Proceedings - 2019 IEEE International Conference on Artificial Intelligence Testing, AITest 2019* 
+publication_short: In *AITEST19* (C1)
 
 abstract: In recent years, data published and shared with third parties to develop artificial intelligence (AI) tools and services has significantly increased. When there are regulatory or internal requirements regarding privacy of data, anonymization techniques are used to maintain privacy by transforming the data. The side-effect is that the anonymization may lead to useless data to train and test the AI because it is highly dependent on the quality of the data. To overcome this problem, we propose a test-driven anonymization approach for artificial intelligence tools. The approach tests different anonymization efforts to achieve a trade-off in terms of privacy (non-functional quality) and functional suitability of the artificial intelligence technique (functional quality). The approach has been validated by means of two real-life datasets in the domains of healthcare and health insurance. Each of these datasets is anonymized with several privacy protections and then used to train classification AIs. The results show how we can anonymize the data to achieve an adequate functional suitability in the AI context while maintaining the privacy of the anonymized data as high as possible.
 
 # Summary. An optional shortened abstract.
-summary: The paper introduces a test-driven approach to anonymize data for AI development, balancing privacy and functional effectiveness. Validated with healthcare and health insurance datasets, it demonstrates successful anonymization while preserving data utility for AI applications.
+summary: 
 
 tags: []
 
@@ -74,15 +74,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

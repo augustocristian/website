@@ -27,7 +27,7 @@ organizations:
     url: https://giis.uniovi.es/projects?lang=en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Software Engineering, Software Testing, Big Data and Privacy-Preserving Data Publishing Techniques.
 
 # Interests to show in About widget
 interests:
@@ -122,6 +122,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Cristian Augusto is a Assistant Professor at the Department of Computer Science of the University of Oviedo, Asturias, Spain. Augusto has been teaching courses in software engineering at various levels and he is being part of the GIIS Research group. His research focuses on optimizing resource utilization in End-to-End testing, with an emphasis on an optimal and cost-effective execution through the test orchestration.
+Cristian Augusto is an Assistant Professor at the Department of Computer Science of the University of Oviedo, Asturias, Spain. Augusto has been teaching courses in software engineering at various levels and he is being part of the GIIS Research group. His research focuses on optimizing resource utilization in End-to-End testing, with an emphasis on an optimal and cost-effective execution through the test orchestration.
 
 {style="text-align: justify;"}
