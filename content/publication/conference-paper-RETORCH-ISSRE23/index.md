@@ -29,7 +29,12 @@ abstract: End-to-end (E2E) testing is costly because of the complex and expensiv
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: 
+  - Software Reliability
+  - Software Testing
+  - Cloud Computing
+  - End-to-End Testing
+  - Resource Optimization
 
 # Display this page in the Featured widget?
 featured: true

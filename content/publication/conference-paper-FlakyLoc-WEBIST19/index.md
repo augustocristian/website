@@ -37,7 +37,11 @@ abstract: Testing web applications is a challenging practice because it involves
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: 
+  - Software Testing and Debugging
+  - Spectrum-based Localization
+  - Web Applications
+  - Test Flakiness
 
 # Display this page in the Featured widget?
 featured: false

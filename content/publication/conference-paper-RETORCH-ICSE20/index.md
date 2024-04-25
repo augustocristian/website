@@ -30,7 +30,11 @@ abstract: Virtualization and containerization have been two disruptive technolog
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags:
+  - Orchestration 
+  - End to End Testing
+  - Efficient use of resources
+  - Containerization
 
 # Display this page in the Featured widget?
 featured: true

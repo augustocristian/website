@@ -41,7 +41,12 @@ abstract: Artificial intelligence (AI) is a broad field whose prevalence in the 
 # Summary. An optional shortened abstract.
 summary:
 
-tags: []
+tags: 
+  - Anonymization
+  - Software Testing
+  - Artificial intelligence
+  - Health-Care Data
+  - k-Anonymity  
 
 # Display this page in the Featured widget?
 featured: true
