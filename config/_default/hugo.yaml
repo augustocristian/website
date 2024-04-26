@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Augusto # Website name
-baseURL: 'https://www.augustocristian.es' # Website URL
+baseURL: 'https://www.augustocristian.es/website/' # Website URL
 
 ############################
 ## LANGUAGE
