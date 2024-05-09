@@ -9,7 +9,7 @@ authors:
 author_notes:
 - "Equal contribution"
 
-date: '2023-11-02T00:00:00Z'
+date: '2023-10-09T00:00:00Z'
 doi: '10.1109/ISSREW60843.2023.00038'
 
 # Schedule page publish date (NOT publication's date).
@@ -21,8 +21,8 @@ publishDate: '2023-11-02T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings - 2023 IEEE 34th International Symposium on Software Reliability Engineering Workshop, ISSREW 2023*
-publication_short: In *ISSREW 2023*
+publication: In *Proceedings - 2023 IEEE 34th International Symposium on Software Reliability Engineering Workshop, Firenze, Italy*
+publication_short: In *ISSREW 2023* (C6)
 
 abstract: End-to-end (E2E) testing is costly because of the complex and expensive resources that are required during the test execution coupled with the long execution times required. This becomes even more challenging when E2E test suites are integrated into a continuous integration (CI/CD) environment, where they are executed with each repository change. Migrating E2E test suite execution to the Cloud is an acknowledged trend to achieve a better cost. However, this also introduces new challenges in addition to those faced on-premises, such as selecting the most suitable services from the wide range offered by Cloud Providers, which is even more difficult considering how the test resources use the Cloud infrastructure. This thesis aims to achieve an efficient execution of the E2E test suites, reducing the number of unnecessary test resource redeployments, and the execution time, and improving the efficiency of selecting the Cloud infrastructure that best aligns with the testing objectives. We present an orchestration approach that aims to enable resource sharing and avoid unnecessary redeployments. This process involves phases like the characterization of the test resources required by the test cases and a grouping of the test cases with compatible resource usage and its scheduling in sequential-parallel to reduce redeployments-time. The orchestration approach has evolved to execute this orchestrated test suite in the Cloud, introducing a model of the E2E test suite execution in the Cloud, which allows us to represent both the test and the Cloud configuration. Using the model, we estimate and compare different Cloud infrastructures in terms of overall cost (billed by the Cloud Provider), but also the cost invested in testing and unused infrastructure (overprovisioning) to select the infrastructure best aligned with the testing objectives.
 
@@ -49,7 +49,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://digibuo.uniovi.es/dspace/bitstream/handle/10651/72390/2023_09_ISSRE23_RETORCH_Presentation.pdf?sequence=5&isAllowed=y'
 url_source: ''
 url_video: ''
 

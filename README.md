@@ -1,4 +1,4 @@
-# 1.Acknoledgements
+# 1. Acknowledgments
 This project is based on the [Hugo Academic Template](https://github.com/HugoBlox/theme-academic-cv), with the necessary modifications
 # 2. Modify the website content and preview it locally
 [Here](https://wowchemy.com/docs/getting-started/install-hugo-extended/) you'll find a comprehensive guide on the setup process. If you're using Windows, the steps are quite straightforward:

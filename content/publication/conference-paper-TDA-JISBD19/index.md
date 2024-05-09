@@ -1,5 +1,5 @@
 ---
-title: 'Test-driven anonymization for artificial intelligence'
+title: 'Anonimización de datos guiada por pruebas para aplicaciones inteligentes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,11 +15,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: '2019-04-04T00:00:00Z'
-doi: '10.1109/AITest.2019.00011'
+date: '2019-09-02T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-20T00:00:00Z'
+publishDate: '2019-09-02T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,10 +27,10 @@ publishDate: '2019-05-20T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings - 2019 IEEE International Conference on Artificial Intelligence Testing, San Francisco, EEUU* 
-publication_short: 'In *AITEST19* (C1)'
+publication: In *Jornadas de Ingeniería del Software y Bases de Datos, Cáceres, Spain* 
+publication_short: 'In *JISBD19*'
 
-abstract: In recent years, data published and shared with third parties to develop artificial intelligence (AI) tools and services has significantly increased. When there are regulatory or internal requirements regarding privacy of data, anonymization techniques are used to maintain privacy by transforming the data. The side-effect is that the anonymization may lead to useless data to train and test the AI because it is highly dependent on the quality of the data. To overcome this problem, we propose a test-driven anonymization approach for artificial intelligence tools. The approach tests different anonymization efforts to achieve a trade-off in terms of privacy (non-functional quality) and functional suitability of the artificial intelligence technique (functional quality). The approach has been validated by means of two real-life datasets in the domains of healthcare and health insurance. Each of these datasets is anonymized with several privacy protections and then used to train classification AIs. The results show how we can anonymize the data to achieve an adequate functional suitability in the AI context while maintaining the privacy of the anonymized data as high as possible.
+abstract: En la actualidad gran cantidad de datos son compartidos para su uso, tratamiento o análisis entre empresas y terceros. Es habitual que estos datos ten-gan que ser protegidos con diferentes técnicas de preservación de la privacidad para dar cumplimiento a las leyes y regulaciones. Una de las técnicas más comu-nes es la anonimización que, aunque provee de privacidad a los datos, presenta como efecto colateral la perdida de información. Esta pérdida de información puede afectar negativamente al comportamiento de aquellos desarrollos alta-mente dependientes de dichos datos como son las aplicaciones inteligentes. Para abordar este problema, proponemos un enfoque guiado por pruebas para selec-cionar el conjunto de datos anonimizado que mantenga un compromiso entre la calidad no funcional (privacidad) y la funcional (utilidad). Para ello se alimenta a las aplicaciones con los datos anonimizados para que tomen los patrones de comportamiento de estos, y seguidamente validar las predicciones con los datos originales, midiendo así su calidad funcional. Dicha calidad junto con la no fun-cional (privacidad), es ponderada según los criterios de usuario con el fin de al-canzar el punto de compromiso entre ambas características de calidad.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -45,12 +45,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://hdl.handle.net/10651/52773'
+url_pdf: 'http://hdl.handle.net/10651/56867'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://digibuo.uniovi.es/dspace/bitstream/handle/10651/52773/2019_04_AITEST19_TDA_Presentation.pdf?sequence=6&isAllowed=y'
+url_slides: 'https://digibuo.uniovi.es/dspace/bitstream/handle/10651/56867/2019_08_JISBD19_TDA_Presentation.pdf?sequence=8&isAllowed=y'
 url_source: ''
 url_video: ''
 

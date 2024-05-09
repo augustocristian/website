@@ -10,7 +10,7 @@ author_notes:
 - "Equal contribution"
 
 
-date: '2020-12-01T00:00:00Z'
+date: '2020-07-06T00:00:00Z'
 doi: '10.1145/3377812.3382177'
 
 # Schedule page publish date (NOT publication's date).
@@ -22,9 +22,9 @@ publishDate: '2020-12-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *2020 ACM/IEEE 42nd International Conference on Software Engineering: Companion, ICSE-Companion 2020*'
-publication_short: In *ICSE20*
-
+publication: 'In *2020 ACM/IEEE 42nd International Conference on Software Engineering: Companion, ICSE-Companion 2020, Seoul, South Korea*'
+publication_short: In *ICSE20* (C4)
+ 
 abstract: Virtualization and containerization have been two disruptive technologies in the past few years. Both technologies have allowed isolating the applications with fewer resources and have impacted fields such as Software Testing. In the field of testing, the execution of the containerized/virtualized test suite has achieved great savings, but when the complexity increases or the cost of deployment rises, there are open challenges like the efficient execution of End to End (E2E) test suites. This paper proposes a research problem and a feasible solution that looks to improve resource usage in the E2E tests, towards smart resource identification and a proper organization of its execution in order to achieve efficient and effective resource usage. The resources are characterized by a series of attributes that provide information about the resource and its usage during the E2E testing phase. The test cases are grouped and scheduled with the resources (i.e. parallelized in the same machine or executed in a fixed arrangement), achieving an efficient test suite execution and reducing its total cost/time.
 
 # Summary. An optional shortened abstract.
