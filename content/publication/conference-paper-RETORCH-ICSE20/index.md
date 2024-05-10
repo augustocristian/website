@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'http://hdl.handle.net/10651/58377'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://digibuo.uniovi.es/dspace/bitstream/handle/10651/58377/2020_07_ICSE20_RETORCH_Poster.pdf?sequence=6&isAllowed=y'
 url_project: ''
 url_slides: ''
 url_source: ''
