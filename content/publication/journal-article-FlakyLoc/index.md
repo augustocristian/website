@@ -1,8 +1,8 @@
 ---
 title: "FlakyLoc: Flakiness Localization for Reliable Test Suites in Web Applications"
 authors:
-- Jesús Morán
-- Cristian Augusto
+- moranjesus
+- augusto
 - Antonia Bertolino
 - Claudio de la Riva
 - Javier Tuya

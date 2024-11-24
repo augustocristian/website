@@ -5,8 +5,8 @@ title: 'Optimizing End-to-End test execution : Unleashing the Resource Dispatche
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Cristian Augusto
-  - Jesús Morán
+  - augusto
+  - moranjesus
   - Claudio de la Riva
   - Javier Tuya
 author_notes:

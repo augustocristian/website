@@ -5,8 +5,8 @@ title: 'Modelo de costes para el despliegue de pruebas E2E en entornos Cloud'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Cristian Augusto
-- Jesús Morán
+- augusto
+- moranjesus
 - Claudio de la Riva
 - Javier Tuya
 author_notes:

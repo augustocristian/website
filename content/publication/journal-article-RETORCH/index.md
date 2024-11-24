@@ -1,8 +1,8 @@
 ---
 title: "RETORCH: an approach for resource-aware orchestration of end-to-end test cases"
 authors:
-- Cristian Augusto
-- Jesús Morán
+- augusto
+- moranjesus
 - Antonia Bertolino
 - Claudio de la Riva
 - Javier Tuya
