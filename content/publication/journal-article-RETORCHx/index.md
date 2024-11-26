@@ -39,7 +39,7 @@ tags:
 - Test orchestration
 - Testing in the Cloud
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
