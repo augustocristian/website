@@ -69,6 +69,9 @@ education:
     institution: University of Oviedo
     date_start: 2018-09-01
     date_end: 2020-07-23
+    button:
+      text: 'Read MsC. Dis.'
+      url: 'http://hdl.handle.net/10651/56205'
   - area: BSc in Computer Engineering in Information Technology
     institution: University of Oviedo
     date_start: 2013-09-01
