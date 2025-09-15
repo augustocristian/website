@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor of Software Engineering
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -59,12 +59,12 @@ education:
   - area: PhD in Computer Science
     institution: University of Oviedo
     date_start: 2020-09-01
-    date_end: ''
+    date_end: 2025-06-02
     summary: |
       Thesis on _Resource Characterization and Optimization for End-to-End Testing_. Supervised by [Prof Claudio de la Riva](https://orcid.org/0000-0001-5592-9683).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://hdl.handle.net/10651/79929'
   - area: MSc. Degree in Computer Engineering
     institution: University of Oviedo
     date_start: 2018-09-01
@@ -77,12 +77,22 @@ education:
     date_start: 2013-09-01
     date_end: 2018-07-18
 work:
+  - position: 'Visiting Postdoctoral Researcher'
+    company_name: 'ISTI-CNR'
+    company_url: 'https://www.isti.cnr.it/en/'
+    company_logo: 'org-isti'
+    location: 'Pisa, Italy'
+    date_start: 2025-06-16
+    date_end: 2025-08-31
+    summary: |
+      Research Internship with Francesca Lonetti in the Software Engineering & Dependable Computing Research Lab (SECD). 
+      Researching and developing the future implications of Large Language Models in Software Testing.
   - position: 'Visiting Researcher'
     company_name: 'ISTI-CNR'
     company_url: 'https://www.isti.cnr.it/en/'
     company_logo: 'org-isti'
     location: 'Pisa, Italy'
-    date_start: 2024-05-03
+    date_start: 2024-06-03
     date_end: 2024-08-31
     summary: |
       Research Internship with Antonia Bertolino in the Software Engineering & Dependable Computing Research Lab. 
@@ -101,8 +111,20 @@ work:
     company_name: 'University of Oviedo'
     company_url: 'www.uniovi.es'
     company_logo: 'org-uniovi'
-    date_start: 2019-01-20
+    date_start: 2025-09-01
     date_end: ''
+    summary: |
+            Teaching Subjects in several degrees:
+              - Web Technologies
+              - Introduction to the Software Engineering Process
+              - Quality, Validation and Verification Software
+              - Final Degree Projects
+  - position: 'Postgraduate Teaching Assistant'
+    company_name: 'University of Oviedo'
+    company_url: 'www.uniovi.es'
+    company_logo: 'org-uniovi'
+    date_start: 2019-01-20
+    date_end: '2025-08-31'
     summary: |
             Teaching Subjects in several degrees:
               - Web Technologies
@@ -112,7 +134,8 @@ work:
               - Operating Systems
               - System Administration
               - Information Systems
-              - Software Process Engineering 
+              - Software Process Engineering
+              - Quality, Validation and Verification Software 
               - Software Architecture
               - Final Degree Projects
               - Social, legal, and ethical issues in Computer Science
